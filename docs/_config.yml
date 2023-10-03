@@ -21,7 +21,7 @@
 title: Otwozord Solutions
 email: otwozord@luko.dev
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the website for the company Otwozord Solutions.
+  This is the website for the company Otwozord Solutions. kvk - 91404681 email - otwozord@luko.dev 
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://luko.dev" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: lukovdm
