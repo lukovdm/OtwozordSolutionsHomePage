@@ -29,7 +29,8 @@ url: "https://lukovdm.github.io" # the base hostname & protocol for your site, e
 github_username:  lukovdm
 
 # Build settings
-theme: hacker
+theme: minima
+remote_theme: hacker
 plugins:
   - jekyll-feed
 
