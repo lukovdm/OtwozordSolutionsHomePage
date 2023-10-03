@@ -26,7 +26,8 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://luko.dev" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: lukovdm
 # Build settings
-theme: pages-themes/hacker@v0.2.0
+#theme: pages-themes/hacker@v0.2.0
+theme: minima
 # remote_theme: pages-themes/hacker@v0.2.0
 plugins:
   - jekyll-feed
